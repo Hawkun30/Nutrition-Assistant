@@ -2,7 +2,7 @@
 
 ## Description
 
-**Nutrition Assistant** is a simple but helpful command-line tool that helps you track your daily food intake, calculate your Body Mass Index (BMI), and receive personalized diet suggestions. The assistant is lightweight, does not require an internet connection, and stores all data locally using CSV files. It is ideal for users who prefer privacy and simplicity over complex nutrition apps.
+**Nutrition Assistant** is a simple but helpful command-line tool that helps you track your daily food intake, calculate your Body Mass Index (BMI), and receive personalized diet suggestions. The assistant is lightweight, does not require an internet connection, and stores all data locally using CSV files. It is ideal for users who prefer privacy and simplicity over complex nutrition apps. This is my CS50P final project.
 
 When the program starts, it asks for your personal details—name, weight, height, age and daily activity level—and calculates your recommended daily calorie intake using the Mifflin-St Jeor equation. From there, it allows you to:
 
